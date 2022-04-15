@@ -1,0 +1,76 @@
+body {
+    font-family: Ubuntu Condensed;
+    background-color:#4d4d4d;
+}
+
+#clock {
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 2.5%;
+    color:#cc99ff;
+}
+
+#welcome {
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 4%;
+    color:#ff5050;
+}
+
+#Searchbar {
+    margin: auto;
+    margin-top: 1.5%;
+    text-align: center;
+    padding: 2px;
+    border-radius: 10em;
+    background-color: #0099ff;
+    border-color: #0099ff;
+    width: 45%;
+    height: 4em;
+}
+
+#SearchInput {
+    background-color: transparent;
+    border-color: transparent;
+    height: 91%;
+    font-size: 2.05em;
+    width: 95%;
+    outline: none;
+}
+
+.Container {
+    margin: auto;
+    display: block;
+    border-color: #0099ff;
+    width:65%;
+    height: 60%;
+    border-width: 2px;
+}
+
+.content {
+    margin-top: 5%;
+    text-align: center;
+    width: 33%;
+    height: 100%;
+    display: block;
+    float: left;
+    color: gray;
+}
+
+#mediaHeader {
+    color:aquamarine;
+}
+
+#learnHeader {
+    color: #ffdb4d;
+}
+
+#personalHeader {
+    color: #5cd65c;
+}
+
+.containerDiv {
+    font-size: 1.3em;
+    color: gray;
+    text-decoration: none;
+}

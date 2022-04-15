@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Ubuntu+Condensed" />
+    <link rel="stylesheet" href="stylesheet.css">
+    <script src="home.js"></script> 
+    <title>Home</title>
+</head>
+<body>
+    <div id="clock">
+        <script src="clock.js"></script>
+    </div>
+    <div id="welcome">
+        <script>welcome();</script>
+    </div>
+    <div id="Searchbar">
+        <input type="text" id="SearchInput" onkeypress="KeyHandler(event.key)" placeholder="Search with with Startpage">
+    </div>
+    <div class="Container">
+        <div class="content">
+            <h1 id="mediaHeader">media</h1>
+            <h3>
+                <a href="https://twitch.tv" class="containerDiv">twitch</a>
+            </h3>
+            <h3>
+                <a href="https://www.youtube.com/" class="containerDiv">youtube</a>
+            </h3>
+        </div>
+        <div class="content">
+            <h1 id="learnHeader">learning</h1>
+            <h3>
+                <a href="https://learning.intersystems.com/?ssoPass=1" class="containerDiv">intersystems</a>
+            </h3>
+            <h3>
+                <a href="https://tryhackme.com/" class="containerDiv">tryhackme</a>
+            </h3>
+            <h3>
+                <a href="https://www.w3schools.com" class="containerDiv">w3schools</a>
+            </h3>
+        </div>
+        <div class="content">
+            <h1 id="personalHeader">personal</h1>
+            <h3>
+                <a href="https://mail.google.com" class="containerDiv">gmail</a>
+            </h3>
+            <h3>
+                <a href="https://drive.google.com" class="containerDiv">drive</a>
+            </h3>
+            <h3>
+                <a href="https://github.com/" class="containerDiv">github</a>
+            </h3>
+            <h3>
+                <a href="https://reddit.com" class="containerDiv">reddit</a>
+            </h3>
+        </div>
+    </div>
+</body>
+</html>
