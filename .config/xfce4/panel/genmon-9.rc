@@ -1,0 +1,6 @@
+Command=/home/manuel/.config/xfce4/scripts/xfce4-spotify-panel/spotify-panel.sh
+UseLabel=0
+Text=(genmon)
+UpdatePeriod=1000
+Font=Sans 10
+

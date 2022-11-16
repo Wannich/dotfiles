@@ -1,0 +1,54 @@
+././@PaxHeader0000000000000000000000000000003300000000000010211 xustar0027 mtime=1668519610.766078
+config.txt0000644000000000000000000000447214334713273010030 0ustar00/configver 2
+/panels [<1>]
+/panels/dark-mode true
+/panels/panel-1/background-rgba [<0.016275000000000001>, <0.0>, <0.16333300000000001>, <0.86121000000000003>]
+/panels/panel-1/background-style uint32 1
+/panels/panel-1/disable-struts false
+/panels/panel-1/icon-size uint32 26
+/panels/panel-1/length uint32 30
+/panels/panel-1/length-adjust false
+/panels/panel-1/mode uint32 0
+/panels/panel-1/plugin-ids [<14>, <17>, <18>, <20>, <9>, <13>, <4>, <6>, <8>, <2>]
+/panels/panel-1/position 'p=6;x=960;y=16'
+/panels/panel-1/position-locked true
+/panels/panel-1/size uint32 30
+/plugins/clipman/settings/save-on-quit false
+/plugins/clipman/tweaks/inhibit true
+/plugins/clipman/tweaks/never-confirm-history-clear false
+/plugins/plugin-13 'xfce4-sensors-plugin'
+/plugins/plugin-14 'pager'
+/plugins/plugin-14/miniature-view false
+/plugins/plugin-14/rows uint32 1
+/plugins/plugin-17 'separator'
+/plugins/plugin-17/style uint32 0
+/plugins/plugin-18 'separator'
+/plugins/plugin-18/style uint32 0
+/plugins/plugin-2 'clock'
+/plugins/plugin-2/digital-format '%m/%d/%Y %l:%M %P '
+/plugins/plugin-2/timezone ''
+/plugins/plugin-2/tooltip-format '%A, %B %d %Y'
+/plugins/plugin-20 'tasklist'
+/plugins/plugin-20/flat-buttons false
+/plugins/plugin-20/grouping uint32 1
+/plugins/plugin-20/show-handle false
+/plugins/plugin-20/show-labels true
+/plugins/plugin-4 'separator'
+/plugins/plugin-4/style uint32 0
+/plugins/plugin-6 'systray'
+/plugins/plugin-6/hidden-items @av []
+/plugins/plugin-6/hidden-legacy-items [<'clipman'>]
+/plugins/plugin-6/icon-size 24
+/plugins/plugin-6/known-items [<'discord1'>]
+/plugins/plugin-6/known-legacy-items [<'xfce4-power-manager'>, <'discord'>, <'ethernet network connection “wired connection 1” active'>, <'clipman'>]
+/plugins/plugin-6/menu-is-primary false
+/plugins/plugin-6/single-row false
+/plugins/plugin-6/square-icons true
+/plugins/plugin-6/symbolic-icons false
+/plugins/plugin-8 'pulseaudio'
+/plugins/plugin-8/enable-keyboard-shortcuts true
+/plugins/plugin-8/mpris-players 'firefox.instance111453;firefox.instance13373;firefox.instance158594;firefox.instance200630;firefox.instance223288;firefox.instance2542;firefox.instance287813;firefox.instance338756;firefox.instance3548;firefox.instance5219;firefox.instance58160'
+/plugins/plugin-8/play-sound false
+/plugins/plugin-9 'separator'
+/plugins/plugin-9/expand true
+/plugins/plugin-9/style uint32 0

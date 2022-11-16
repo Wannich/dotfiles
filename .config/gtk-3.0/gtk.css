@@ -1,0 +1,20 @@
+@import 'colors.css';
+
+window.xfce4-panel widget > box > button > image{
+	padding: 0.2em 0.16em;
+	-gtk-icon-transform: scale(0.8);
+}
+
+
+.xfce4-panel {
+	font-family: 'Cascadia Code';
+}
+
+.xfce4-panel button { font-size: 16px; padding-left: 8px; padding-right: 8px; }
+
+.xfce4-panel button:checked { background: #261a5c; }
+
+.xfce4-panel button:hover { color: white; background: #261a5c; }
+
+
+
